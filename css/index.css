@@ -101,6 +101,9 @@ div {
 .swiper-slide{
   height: 72px !important;
 }
+.swiper-wrapper{
+  height: auto !important;
+}
 /* 局部导航栏 */
 .local-nav {
   display: flex;
